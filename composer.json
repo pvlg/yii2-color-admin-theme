@@ -1,4 +1,9 @@
 {
     "name": "pvlg/yii2-color-admin-theme",
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "pvlg\\yii2\\ColorAdminTheme\\": "srccc/"
+        }
+    }
 }
