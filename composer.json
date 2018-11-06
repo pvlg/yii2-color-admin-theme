@@ -3,7 +3,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "pvlg\\yii2\\ColorAdminTheme\\": "srccc/"
+            "pvlg\\yii2\\ColorAdminTheme\\": "src/"
         }
     }
 }
